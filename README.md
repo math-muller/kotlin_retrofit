@@ -9,6 +9,6 @@
 • Possui uma arquitetura robusta. </br></br>
 • Funciona com Java e Kotlin.</br></br>
 
-obs: Nesse projeto estou usando mockapi.
+obs: Nesse projeto estou usando mockapi.</br></br>
  <a href="https://square.github.io/retrofit/">Retrofit</a></p>
 </blockquote> 
